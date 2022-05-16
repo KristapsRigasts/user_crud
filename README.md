@@ -1,7 +1,7 @@
 ## Users App
-View all users
-Create new user
-Edit existing user
+View all users,
+Create new user,
+Edit existing user,
 Delete existing user
 
 ## How to run App
